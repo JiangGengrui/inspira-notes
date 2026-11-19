@@ -5,3 +5,6 @@ out/
 .DS_Store
 Thumbs.db
 .env
+
+.preview/
+.claude/settings.local.json
